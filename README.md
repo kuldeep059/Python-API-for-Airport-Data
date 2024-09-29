@@ -2,6 +2,7 @@
 
 This Python API provides a simple and efficient way to fetch information about airports, including their names, IATA codes, and country names. It is designed to be easily integrated into applications that require airport data for travel services, flight booking systems, or logistics management.
 
+
 ## Features
 
 - **Airport Data**: Retrieve detailed information about airports worldwide, including names and IATA codes.
@@ -10,6 +11,9 @@ This Python API provides a simple and efficient way to fetch information about a
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contributing
+Feel free to contribute to this project by submitting issues or pull requests. Any contributions are highly appreciated!
 
 ## Installation
 
