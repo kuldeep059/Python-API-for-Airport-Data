@@ -8,6 +8,9 @@ This Python API provides a simple and efficient way to fetch information about a
 - **Country Information**: Get the country name associated with each airport.
 - **Easy Integration**: Simple endpoints that can be easily integrated into various applications and services.
 
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
 ## Installation
 
 Clone the repository and install the required dependencies:
@@ -16,3 +19,4 @@ Clone the repository and install the required dependencies:
 git clone <repository-url>
 cd <repository-directory>
 pip install -r requirements.txt
+
