@@ -10,7 +10,7 @@ This Python API provides a simple and efficient way to fetch information about a
 - **Easy Integration**: Simple endpoints that can be easily integrated into various applications and services.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the MIT License. See the LICENSE file for more details
 
 ## Contributing
 Feel free to contribute to this project by submitting issues or pull requests. Any contributions are highly appreciated!
